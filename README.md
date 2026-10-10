@@ -1,4 +1,4 @@
-#Automatic Slow Writer
+# Automatic Slow Writer
 
 ![ProgramExample](/assets/testrun.gif)
 
